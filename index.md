@@ -8,6 +8,9 @@ level: 0
 region: United States
 
 auto-migrated: 1
+meetup-group: OWASP-Colorado-Springs-Meetup
+country: USA
+postal-code: 80901
 
 ---
 
