@@ -20,7 +20,7 @@ Welcome to the Home Page of the Colorado Springs Chapter of OWASP. We are a new 
 
 Join us on our [Discord Channel](https://discord.gg/dbgDS43N)
 
-We are currently looking to build up our Leadership Team! If you are interested, please reach out to Mike Forgione through [email](mike.forgione@owasp.org) or through a Direct Message on Discord!
+We are currently looking to build up our Leadership Team! If you are interested, please reach out to Mike Forgione through email at mike.forgione@owasp.org or through a Direct Message on Discord!
 
 ### Are you Interested in presenting at a meet up? ###
-Please make sure you read the [speaker agreement](/www-policy/speaker-agreement) and email the chapter leader [Mike Forgione](mike.forgione@owasp.org) to get things started!
+Please make sure you read the [speaker agreement](/www-policy/speaker-agreement) and email the chapter leader mike.forgione@owasp.orgto get things started!
