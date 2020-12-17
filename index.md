@@ -18,6 +18,11 @@ Welcome to the Home Page of the Colorado Springs Chapter of OWASP. We are a new 
 
 ***EVERYONE*** is welcome to attend our regular meetings. It doesn't matter your role or experience level. 
 
+### For more information on our meetings, check out our [MeetUp](https://www.meetup.com/colorado-springs-owasp/) Group:
+{% include chapter_events.html group=page.meetup-group %}
+
+
+
 Join us on our [Discord Channel](https://discord.gg/dbgDS43N)
 
 We are currently looking to build up our Leadership Team! If you are interested, please reach out to Mike Forgione through email at mike.forgione@owasp.org or through a Direct Message on Discord!
