@@ -18,7 +18,7 @@ Welcome to the Home Page of the Colorado Springs Chapter of OWASP. We are a new 
 
 ***EVERYONE*** is welcome to attend our regular meetings. It doesn't matter your role or experience level. 
 
-### For more information on our meetings, check out our [MeetUp](https://www.meetup.com/colorado-springs-owasp/) Group:
+### For more information on our meetings, check out our [MeetUp](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/) Group:
 
 Join us on our [Discord Channel](https://discord.gg/dbgDS43N)
 
