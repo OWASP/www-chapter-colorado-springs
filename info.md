@@ -1,6 +1,6 @@
-<!--### Chapter Information
+### Chapter Information
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
+* [Meetup) (https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 * [Social Link](#)-->
