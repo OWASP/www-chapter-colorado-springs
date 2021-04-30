@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Colorado Springs
 site_side: true
-tags: Colorado Springs
+tags: colorado-springs
 level: 3
 region: North America
 currency: usd
@@ -13,6 +13,7 @@ country: USA
 postal-code: 80831
 
 ---
+
 OWASP Colorado Springs
 -----------------
 
