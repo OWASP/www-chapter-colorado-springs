@@ -14,10 +14,10 @@ postal-code: 80831
 
 ---
 
-OWASP Colorado Springs
+Welcome!
 -----------------
 
-Welcome to the Home Page of the Colorado Springs Chapter of OWASP! We are re-starting the chapter under the aegis of the chapter re-activation program. We are actively looking for more co-leaders, speakers, and to help decide the direction of the chapter.
+Welcome to the OWASP Colorado Springs Chapter! We are re-starting the chapter under the aegis of the chapter re-activation program. We are actively looking for more co-leaders, speakers, and to help decide the direction of the chapter, including social activities and get togethers once the COVID status drops from "Very High" to something a bit safer.
 
 ### Where do we meet?
 
@@ -34,13 +34,6 @@ Our next meeting features Andrew van der Stock, the OWASP Top 10 co-lead on OWAS
 * [Register here](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/events/277899154/)
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-
-### OWASP Colorado Springs Chat and Social Media
-
-* [Join #chapter-colorado-springs on the OWASP Community Slack](https://owasp.org/slack/invite)
-* [OWASP Colorado Springs Meetup](https://www.meetup.com/OWASP-Colorado-Springs-Meetup)
-* [OWASP Colorado Springs YouTube](TBA) (we will publish or livestream our meetings here)
-* [Twitter]()
 
 ### Call for leaders
 
