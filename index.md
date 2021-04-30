@@ -36,7 +36,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### OWASP Colorado Springs Chat and Social Media
 
-* [Join #chapter-colorado-springs on the OWASP Community Slack](https://join.slack.com/share/zt-q2izzd40-rab~MxeO1SZZTwJXLJoS5Q)
+* [Join #chapter-colorado-springs on the OWASP Community Slack](https://owasp.org/slack/invite)
 * [OWASP Colorado Springs Meetup](https://www.meetup.com/OWASP-Colorado-Springs-Meetup)
 * [OWASP Colorado Springs YouTube](TBA) (we will publish or livestream our meetings here)
 * [Twitter]()
