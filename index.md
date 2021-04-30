@@ -29,10 +29,6 @@ We schedule our meetings on the [Colorado Springs Meetup Group](https://www.meet
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Our next meeting features Andrew van der Stock, the OWASP Top 10 co-lead on OWASP Top 10 2021 progress. It's a virtual event, and all are welcome. Depending on registration numbers, we might need to change from a Zoom call to a YouTube stream, so please do keep an eye on the event location once you have RSVP'd, as it may change.
-
-* [Register here](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/events/277899154/)
-
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Call for leaders
