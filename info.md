@@ -10,8 +10,7 @@
 
 * [Meetup](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 * [Slack - #chapter-colorado-springs](https://owasp.org/slack/invite)
-* [YouTube](TBA)
-* [Twitter](TBA)
+* [Twitter](https://twitter.com/owaspcos/)
 
 ### Code Repo
 
