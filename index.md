@@ -17,11 +17,11 @@ postal-code: 80831
 OWASP Colorado Springs
 -----------------
 
-Welcome to the Home Page of the Colorado Springs Chapter of OWASP. We are a new chapter so we are still working on getting things organized. Check here for any updates on the chapter including participation and meetings! We are looking forward to building out a great chapter within the InfoSec community in Colorado Springs!
+Welcome to the Home Page of the Colorado Springs Chapter of OWASP! We are re-starting the chapter under the aegis of the chapter re-activation program. We are actively looking for more co-leaders, speakers, and to help decide the direction of the chapter.
 
 ### Where do we meet?
 
-At the moment, due to COVID, we don't meet physically. However, in the past we have met in person at SecureSet Academy. We will be discussing a return to this location with SecureSet over the coming months.
+At the moment, due to COVID, we don't meet physically. However, in the past we have met in person at SecureSet Academy. We will be discussing a return to our old location with SecureSet over the coming months.
 
 ### Upcoming Meetings
 
@@ -29,7 +29,7 @@ We schedule our meetings on the [Colorado Springs Meetup Group](https://www.meet
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Our next meeting is by Andrew van der Stock, the OWASP Top 10 co-lead on OWASP Top 10 2021 progress. It's a virtual event, and all are welcome. Depending on registration numbers, we might need to change from a Zoom call to a YouTube stream, so please do keep an eye on the event location once you have RSVP'd, as it may change.
+Our next meeting features Andrew van der Stock, the OWASP Top 10 co-lead on OWASP Top 10 2021 progress. It's a virtual event, and all are welcome. Depending on registration numbers, we might need to change from a Zoom call to a YouTube stream, so please do keep an eye on the event location once you have RSVP'd, as it may change.
 
 * [Register here](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/events/277899154/)
 
