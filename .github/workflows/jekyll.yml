@@ -11,6 +11,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      PAGES_REPO_NWO: www-chapter-colorado-springs
+
     steps:
     - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
