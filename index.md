@@ -39,4 +39,4 @@ We are currently looking to build up our Leadership Team! If you are interested,
 
 Our goal is to make the OWASP Colorado Springs chapter a worldwide community of interest around defence and aerospace application security topics, which are two primary industries in the Colorado Springs area. If you feel you would like to talk about a topic along these lines, please come speak at our Chapter. As many of these topics are sensitive and our meetings are open to the public, please make sure you are cleared to talk prior to making a booking, and the information is publicly consumable. Additionally, we will be seeking talks on any topic relating to application security.
 
-Please make sure you read the [speaker agreement](/www-policy/speaker-agreement) and email the chapter leaders ([Terry Bradshaw](mailto:terry.bradshaw@owasp.org) or [Andrew van der Stock](mailto:vanderaj@owasp.org)).
+Please make sure you read the [speaker agreement](https://owasp.org/www-policy/) and email the chapter leaders ([Terry Bradshaw](mailto:terry.bradshaw@owasp.org) or [Andrew van der Stock](mailto:vanderaj@owasp.org)).
