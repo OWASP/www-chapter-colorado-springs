@@ -33,7 +33,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### Call for leaders
 
-We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Terry Bradshaw](mailto:terry.bradshaw@owasp.org) or [Andrew van der Stock](mailto:vanderaj@owasp.org).
+We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Andrew van der Stock](mailto:vanderaj@owasp.org).
 
 ### Call for speakers
 
