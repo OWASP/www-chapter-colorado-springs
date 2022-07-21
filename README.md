@@ -1,4 +1,4 @@
-# www-chapter-colorado-springs
+# Colorado-Springs-OWASP
 
 OWASP Colorado Springs Chapter Homepage
 
