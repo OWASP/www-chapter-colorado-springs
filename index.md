@@ -19,17 +19,18 @@ Welcome!
 
 Welcome to the OWASP Colorado Springs Chapter!
 
-OWASP Colorado Springs is BACK! with our next meeting August 25th at the National Cybersecurity Center! Check out the Upcoming Meetings Section for more detail!
+OWASP Colorado Springs Next Chapter Meeting is October TBD, 2022
+
+CALL FOR SPEAKERS now live! Please email either Terry or Marc for more info!
 
 ### Where do we meet?
 
-At the moment, due to COVID, we don't meet physically. However, in the past we have met in person at SecureSet Academy. We will be discussing a return to our old location with SecureSet over the coming months.
+Our last meeting (August) was held at the National Cybersecurity Center (NCC) We hope to be a community built chapter and will potentially explore new locations for food and beverages as well as maintain reoccurences at the NCC! Follow us on Twitter and join our slack channel to stay up to date!
 
 ### Upcoming Meetings
+[Colorado Springs Meetup Group](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 
-Please Join [Colorado Springs Meetup Group](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/) for more info!
-
-Next Meeting! August 25th
+Next Meeting, October TBD
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -43,4 +44,4 @@ We are currently looking to build up our Leadership Team! If you are interested,
 
 Our goal is to make the OWASP Colorado Springs chapter a worldwide community of interest around defence and aerospace application security topics, which are two primary industries in the Colorado Springs area. If you feel you would like to talk about a topic along these lines, please come speak at our Chapter. As many of these topics are sensitive and our meetings are open to the public, please make sure you are cleared to talk prior to making a booking, and the information is publicly consumable. Additionally, we will be seeking talks on any topic relating to application security.
 
-Please make sure you read the [speaker agreement](https://owasp.org/www-policy/) and email the chapter leaders ([Terry Bradshaw](mailto:terry.bradshaw@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
+Please make sure you read the [speaker agreement](https://owasp.org/www-policy/) and email the chapter leaders ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
