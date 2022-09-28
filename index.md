@@ -19,7 +19,7 @@ Welcome!
 
 Welcome to the OWASP Colorado Springs Chapter!
 
-OWASP Colorado Springs Next Chapter Meeting is October TBD, 2022
+OWASP Colorado Springs Next Chapter Meeting is October 27, 2022 @ 6:00PM
 
 CALL FOR SPEAKERS now live! Please email either Terry or Marc for more info!
 
@@ -30,7 +30,7 @@ Our last meeting (August) was held at the National Cybersecurity Center (NCC) We
 ### Upcoming Meetings
 [Colorado Springs Meetup Group](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 
-Next Meeting, October TBD
+Next Meeting:
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -38,7 +38,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### Call for leaders
 
-We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org).
+We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org) - @lil_r00t.
 
 ### Call for speakers
 
