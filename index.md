@@ -13,35 +13,26 @@ country: USA
 postal-code: 80831
 
 ---
+### OWASP Colorado Springs
+Welcome to the OWASP Colorado Springs Chapter! A welcoming community of technology professionals interested in the world of Application Security.
 
-Welcome!
------------------
-
-Welcome to the OWASP Colorado Springs Chapter!
-
-OWASP Colorado Springs Next Chapter Meeting is October 27, 2022 @ 6:00PM
-
-CALL FOR SPEAKERS now live! Please email either Terry or Marc for more info!
-
-### Where do we meet?
-
-Our last meeting (August) was held at the National Cybersecurity Center (NCC) We hope to be a community built chapter and will potentially explore new locations for food and beverages as well as maintain reoccurences at the NCC! Follow us on Twitter and join our slack channel to stay up to date!
+### About OWASP COS
+We hope to be a community built chapter and want to explore locations around the city. We regularly meet at the National Cybersecurity Center (NCC), 
+however some meetup locations may vary! Our meetups consist of workshops, speakers, and other technical infosec opportunities.
+Technical knowledge is NOT required and all who are interested are welcome to attend our meetups. Join our Slack server to stay up to date!
 
 ### Upcoming Meetings
+OWASP Colorado Springs Next Chapter Meeting is October 27, 2022 @ 6:00PM <br>
+We recommend following our Meetup Group to stay up to date on our chapter meetups! <br>
 [Colorado Springs Meetup Group](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
-
 Next Meeting:
+{% include chapter_events.html group=page.meetup-group %} <br>
+Our meetings are open to the public, and you do not need to be a member to attend. <br>
+Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-{% include chapter_events.html group=page.meetup-group %}
+### Call for Leaders and Volunteers
+If you are interested in being a leader or supporting, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)
 
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-
-### Call for leaders
-
-We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org) - @lil_r00t.
-
-### Call for speakers
-
-Our goal is to make the OWASP Colorado Springs chapter a worldwide community of interest around defence and aerospace application security topics, which are two primary industries in the Colorado Springs area. If you feel you would like to talk about a topic along these lines, please come speak at our Chapter. As many of these topics are sensitive and our meetings are open to the public, please make sure you are cleared to talk prior to making a booking, and the information is publicly consumable. Additionally, we will be seeking talks on any topic relating to application security.
-
-Please make sure you read the [speaker agreement](https://owasp.org/www-policy/) and email the chapter leaders ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
+### Call for Speakers
+Please make sure you read the [speaker agreement](https://owasp.org/www-policy/). <br>
+[Apply Here](https://forms.gle/cUM6TbWFmgDPCgaE8), or email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).

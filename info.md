@@ -11,8 +11,4 @@
 * [Meetup](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 * [Slack](https://join.slack.com/t/owaspcos/shared_invite/zt-1gq3pytxj-GW2YIc3bndCKJLgXtSmCGg)
 * [Twitter](https://twitter.com/owaspcos/)
-
-### Code Repo
-
-* [GitHub](https://github.com/OWASP/www-chapter-colorado-springs)
 * [Slides archive](/www-chapter-colorado-springs/assets/slides/)
