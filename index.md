@@ -31,8 +31,8 @@ Our meetings are open to the public, and you do not need to be a member to atten
 Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Call for Leaders and Volunteers
-If you are interested in being a leader or supporting, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)
+If you are interested in supporting the chapter, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)
 
 ### Call for Speakers
-Please make sure you read the [speaker agreement](https://owasp.org/www-policy/). <br>
+Please make sure you read the [Speaker Agreement](https://owasp.org/www-policy/). <br>
 [Apply Here](https://forms.gle/cUM6TbWFmgDPCgaE8), or email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
