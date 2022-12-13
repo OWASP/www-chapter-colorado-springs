@@ -30,7 +30,7 @@ Next Meeting:
 Our meetings are open to the public, and you do not need to be a member to attend. <br>
 Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-### Call for Leaders and Volunteers
+### Call for Volunteers
 If you are interested in supporting the chapter, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)
 
 ### Call for Speakers

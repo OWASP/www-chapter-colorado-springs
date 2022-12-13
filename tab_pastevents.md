@@ -9,5 +9,8 @@ tags: colorado-springs
 
 ---
 ## Past Events
+August 25, 2022 - NCC
+OWASP COS Kick-Off
 
-There were events in 2019, but unfortunately, we do not have recordings or slides from them.
+October 27, 2022 - NCC
+Jason Haddix - Bug Hunter's Methodology - Recon
