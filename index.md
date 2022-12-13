@@ -22,7 +22,7 @@ however some meetup locations may vary! Our meetups consist of workshops, speake
 Technical knowledge is NOT required and all who are interested are welcome to attend our meetups. Join our Slack server to stay up to date!
 
 ### Upcoming Meetings
-OWASP Colorado Springs Next Chapter Meeting is October 27, 2022 @ 6:00PM <br>
+OWASP Colorado Springs Next Chapter Meeting is Thursday, January 19th, 2023 @ 6:00PM <br>
 We recommend following our Meetup Group to stay up to date on our chapter meetups! <br>
 [Colorado Springs Meetup Group](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 Next Meeting:
@@ -34,5 +34,4 @@ Please do consider [joining OWASP](https://owasp.org/membership/) if you find ou
 If you are interested in supporting the chapter, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)
 
 ### Call for Speakers
-Please make sure you read the [Speaker Agreement](https://owasp.org/www-policy/). <br>
-[Apply Here](https://forms.gle/cUM6TbWFmgDPCgaE8), or email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
+Please make sure you read the [Speaker Agreement](https://owasp.org/www-policy/) and email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
