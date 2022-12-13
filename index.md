@@ -35,4 +35,4 @@ Your support helps us run bigger and better meetups by providing food, drinks, s
 
 ### Call for Speakers
 Please make sure you read the [speaker agreement](https://owasp.org/www-policy/). <br>
-[Apply Here](https://forms.gle/cUM6TbWFmgDPCgaE8), or email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
+[Apply Here], or email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
