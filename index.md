@@ -13,6 +13,8 @@ country: USA
 postal-code: 80831
 
 ---
+![Coloarado Springs Chapter Logo](assets/images/cos_owasp_logo.png)
+
 Welcome to the OWASP Colorado Springs Chapter! A welcoming community of technology professionals interested in the world of Application Security.
 
 ### About OWASP COS
