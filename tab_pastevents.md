@@ -11,19 +11,16 @@ tags: colorado-springs
 ## Past Events
 Previous meetup slides can be found on our chapter [LinkedIn Page](https://www.linkedin.com/groups/14141110/)
 
-### John Mocuta - Finding and Submitting a Zero Day
-August 29, 2024
+### [John Mocuta](https://www.linkedin.com/in/atucom/) - August 29, 2024
+#### Finding a 0-Day & Getting a CVE Summary:
 
-#### Summary:
-Finding a 0-Day & Getting a CVE
-
-Context:
+##### Context:
 
     John, a red-team specialist in network, web app, and hardware security, discovered a 0-day vulnerability in a client's 
     Robotic Process Automation (RPA) code, which had never been reviewed. John was also disappointed that RPAs had nothing
-    to do with actually robots.
+    to do with actual robots.
 
-Options for Disclosure:
+##### Options for Disclosure:
 
 * No disclosure
     * Keep the vulnerability private--i.e. not discloused to anyone. 
@@ -32,10 +29,10 @@ Options for Disclosure:
 * Coordinated/Responsible disclosure (report to vendor first)
     * Report the vulnerability to the vendor first, allowing them time to fix it before publicly disclosing it.
 
-Process:
+ ##### Process:
 
-    Submit a form at cve.mitre.org with product and version details. Example: CVE-2022-29856.
-    Safe Harbor & Reporting
+    Submit a form at [cve.mitre.org](https://cve.mitre.org/) with product and version details.
+    John's Submission: [CVE-2022-29856](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29856)
 
 ##### Key Concepts
 Safe Harbor:
