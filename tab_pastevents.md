@@ -34,14 +34,16 @@ Options for Disclosure:
 * Coordinated/Responsible disclosure (report to vendor first)
     * Report the vulnerability to the vendor first, allowing them time to fix it before publicly disclosing it.
 
-* Safe Harbor: Protection from legal repercussions when reporting vulnerabilities.
+Safe Harbor
+* Protection from legal repercussions when reporting vulnerabilities.
 
 * Reporting Hierarchy:
     1. PR
     2. Legal
     3. InfoSec
 
-* Austin Harbor Association - Allows anonymous reporting of vulnerabilities.
+Austin Harbor Association 
+* Allows anonymous reporting of vulnerabilities.
 
 ### Jason Haddix - The Bug Hunters Methodology: Recon <br> 
 October 27, 2022
