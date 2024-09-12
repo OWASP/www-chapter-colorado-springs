@@ -8,20 +8,19 @@ order: 2
 tags: colorado-springs
 
 ---
-## Past Events
-Previous meetup slides can be found on our chapter [LinkedIn Page](https://www.linkedin.com/groups/14141110/)
+## Past Events Previous meetup slides can be found on our chapter [LinkedIn Page](https://www.linkedin.com/groups/14141110/)
 
 ### [John Mocuta](https://www.linkedin.com/in/atucom/) - August 29, 2024
 ### Finding a 0-Day & Getting a CVE 
-#### Summary:
+#### Summary
 
-##### Context:
+##### Context
 
     John, a red-team specialist in network, web app, and hardware security, discovered a 0-day vulnerability in a client's 
     Robotic Process Automation (RPA) code, which had never been reviewed. John was also disappointed that RPAs had nothing
     to do with actual robots.
 
-##### Process:
+##### Process
 Submit a form at [cve.mitre.org](https://cve.mitre.org/) with product and version details.
 John's Submission: [CVE-2022-29856](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29856)
 
@@ -37,10 +36,10 @@ Options for Disclosure:
 Safe Harbor
 * Protection from legal repercussions when reporting vulnerabilities.
 
-* Reporting Hierarchy:
-    1. PR
-    2. Legal
-    3. InfoSec
+Reporting Hierarchy:
+1. PR
+2. Legal
+3. InfoSec
 
 Austin Harbor Association 
 * Allows anonymous reporting of vulnerabilities.
