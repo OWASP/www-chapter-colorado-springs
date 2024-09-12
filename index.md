@@ -13,6 +13,8 @@ country: USA
 postal-code: 80831
 
 ---
+![Coloarado Springs Chapter Logo](assets/images/owasp_blue.png)
+
 Welcome to the OWASP Colorado Springs Chapter! A welcoming community of technology professionals interested in the world of Application Security.
 
 ### About OWASP COS
@@ -21,7 +23,7 @@ however some meetup locations may vary! Our meetups consist of workshops, speake
 Technical knowledge is NOT required and all who are interested are welcome to attend our meetups. Join our Slack server to stay up to date!
 
 ### Upcoming Meetings
-OWASP Colorado Springs Next Chapter Meeting is January 19, 2023 @ 6:00PM <br>
+OWASP Colorado Springs Next Chapter Meeting is Thursday, August 29th, 2024 @ 6:00PM <br>
 We recommend following our Meetup Group to stay up to date on our chapter meetups! <br>
 [Colorado Springs Meetup Group](https://www.meetup.com/OWASP-Colorado-Springs-Meetup/)
 Next Meeting:
@@ -30,9 +32,9 @@ Our meetings are open to the public, and you do not need to be a member to atten
 Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Call for Volunteers and Support
-If you are interested in supporting our Chapter, please reach out to [Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)
+If you are interested in supporting our Chapter, please reach out to [Marc Sanchez](mailto:marc.sanchez@owasp.org) or [James Smith](mailto:james.smith@owasp.org).
 Your support helps us run bigger and better meetups by providing food, drinks, securing venues, and help speakers who are traveling.
 
 ### Call for Speakers
 Please make sure you read the [speaker agreement](https://owasp.org/www-policy/). <br>
-[Apply Here], or email ([Terry Bradley](mailto:terry.bradley@owasp.org) or [Marc Sanchez](mailto:marc.sanchez@owasp.org)).
+[Apply Here], or email ([Marc Sanchez](mailto:marc.sanchez@owasp.org) or [James Smith](mailto:james.smith@owasp.org)).
