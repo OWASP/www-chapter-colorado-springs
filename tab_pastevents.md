@@ -12,7 +12,8 @@ tags: colorado-springs
 Previous meetup slides can be found on our chapter [LinkedIn Page](https://www.linkedin.com/groups/14141110/)
 
 ### [John Mocuta](https://www.linkedin.com/in/atucom/) - August 29, 2024
-#### Finding a 0-Day & Getting a CVE Summary:
+### Finding a 0-Day & Getting a CVE 
+#### Summary:
 
 ##### Context:
 
@@ -20,8 +21,12 @@ Previous meetup slides can be found on our chapter [LinkedIn Page](https://www.l
     Robotic Process Automation (RPA) code, which had never been reviewed. John was also disappointed that RPAs had nothing
     to do with actual robots.
 
-##### Options for Disclosure:
+##### Process:
+Submit a form at [cve.mitre.org](https://cve.mitre.org/) with product and version details.
+John's Submission: [CVE-2022-29856](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29856)
 
+##### Key Concepts
+Options for Disclosure:
 * No disclosure
     * Keep the vulnerability private--i.e. not discloused to anyone. 
 * Full disclosure (public)
@@ -29,15 +34,7 @@ Previous meetup slides can be found on our chapter [LinkedIn Page](https://www.l
 * Coordinated/Responsible disclosure (report to vendor first)
     * Report the vulnerability to the vendor first, allowing them time to fix it before publicly disclosing it.
 
- ##### Process:
-
-    Submit a form at [cve.mitre.org](https://cve.mitre.org/) with product and version details.
-    John's Submission: [CVE-2022-29856](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29856)
-
-##### Key Concepts
-Safe Harbor:
-
-    Protection from legal repercussions when reporting vulnerabilities.
+* Safe Harbor: Protection from legal repercussions when reporting vulnerabilities.
 
 * Reporting Hierarchy:
     1. PR
