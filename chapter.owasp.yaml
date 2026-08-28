@@ -1,0 +1,31 @@
+community:
+  - name: chapter-colorado-springs
+    platform: slack
+    url: https://owasp.slack.com/archives/C020K4TVA4S
+    description: A channel to discuss Colorado Springs chapter stuff, next meetings, etc.
+currency: USD
+leaders:
+  - name: Marc Sanchez
+    email: marc.sanchez@owasp.org
+    github: lilr00t
+  - name: James Smith
+    email: james.smith@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Colorado
+  city: Colorado Springs
+  postal_code: '80831'
+  latitude: 38.8339578
+  longitude: -104.825348
+meetup_group: OWASP-Colorado-Springs-Meetup
+name: OWASP Colorado Springs
+repositories:
+  - name: www-chapter-colorado-springs
+    url: https://github.com/OWASP/www-chapter-colorado-springs
+    description: OWASP Colorado Springs Chapter Homepage
+tags:
+  - colorado-springs
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-colorado-springs
